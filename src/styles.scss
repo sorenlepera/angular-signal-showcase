@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  font-family: gill sans, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #19212e;
+  color: #d2d2d2;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input {
+  background-color: #33435bfa;
+  color: rgba(142, 139, 139, 0.788);
+  padding: 10px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
